@@ -4,8 +4,8 @@ Automatically resize an iframe to match its content's height and have no scrollb
 
 ## Demos
 
-[Automatic resize](https://dariocravero.github.io/iframeless/demo/index.html)
-[No default resize](https://dariocravero.github.io/iframeless/demo/index-no-resize.html)
+* [Automatic resize](https://dariocravero.github.io/iframeless/demo/index.html)
+* [No default resize](https://dariocravero.github.io/iframeless/demo/index-no-resize.html)
 
 ## Code for automatic resizing
 
