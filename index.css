@@ -1,0 +1,8 @@
+body {
+  border: 1px solid blue;
+}
+
+iframe {
+  border:   1px solid red;
+  width:    100vw;
+}
